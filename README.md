@@ -1,6 +1,6 @@
 ## Scrape PNP smartshopper transactions
 
-> Quick test of possibility to scrape html of PnP Smartshopper accounts
+> Quick feasibility check to scrape html of PnP Smartshopper accounts for transaction values
 
 *Reasons*
 1. Track costs of per item price changes
